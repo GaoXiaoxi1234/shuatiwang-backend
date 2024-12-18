@@ -4,7 +4,6 @@ import com.gxx.shuatiwang.esdao.PostEsDao;
 import com.gxx.shuatiwang.model.dto.post.PostEsDTO;
 import com.gxx.shuatiwang.model.entity.Post;
 import com.gxx.shuatiwang.service.PostService;
-
 import java.util.List;
 import java.util.stream.Collectors;
 import javax.annotation.Resource;
